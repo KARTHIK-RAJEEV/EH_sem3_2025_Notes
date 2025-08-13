@@ -31,7 +31,7 @@ done
 scp "$LOGFILE" user@yourserver.com:/path/to/remote/
 ```
 
-You can use a similar `while read line; do ... done` structure to upload periodically.
+
 
 ---
 
